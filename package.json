@@ -1,0 +1,12 @@
+{
+  "name": "nctu-pt-auto-filler",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Yang Lin",
+  "license": "MIT",
+  "dependencies": {
+    "form-data": "^2.3.3",
+    "isomorphic-fetch": "^2.2.1",
+    "moment": "^2.23.0"
+  }
+}
